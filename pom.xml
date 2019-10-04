@@ -12,7 +12,7 @@
 	</dependencies>
 	
 	<properties>
-		<groups>smoke,regression</groups>
+		<!-- <groups>smoke,regression</groups> -->
 		<suiteXmlFile>suite/SuiteXmlFile.xml</suiteXmlFile>
 		<maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
 	</properties>
