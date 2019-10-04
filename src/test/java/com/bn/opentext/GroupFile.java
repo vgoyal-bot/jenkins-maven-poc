@@ -2,7 +2,7 @@ package com.bn.opentext;
 
 import org.testng.annotations.Test;
 
-public class SampleTest {
+public class GroupFile {
 
     @Test
     public void test1None() {
